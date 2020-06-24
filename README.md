@@ -1,1 +1,3 @@
-# xetter_e500
+# XETTER E500
+
+https://xetter.com/
